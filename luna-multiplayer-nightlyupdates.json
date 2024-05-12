@@ -1,9 +1,9 @@
 [
     {
         "UpdateStageName": "Nightly Update",
-        "UpdateSourcePlatform": "All",
+        "UpdateSourcePlatform": "Linux",
         "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.29.0-Draft/LunaMultiplayer-Server-any-Release.zip",
+        "UpdateSourceData": "https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.29.0-Draft/LunaMultiplayer-Server-linux-x64-Release.zip",
         "UpdateSourceTarget": "serverfiles",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": false,
