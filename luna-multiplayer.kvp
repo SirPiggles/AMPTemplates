@@ -1,7 +1,8 @@
 Meta.DisplayName=Luna Multiplayer
 Meta.Description=Kerbal Space Program Multiplayer
+Meta.AppConfigId=a53a7116-f7eb-4c8b-9d1b-12243111dbb7
 Meta.Arch=x86_64
-Meta.Author=SirPiggles - Made with AMP Config Generator
+Meta.Author=SirPiggles
 Meta.URL=https://lunamultiplayer.com/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
