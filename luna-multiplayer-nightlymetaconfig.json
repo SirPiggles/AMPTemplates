@@ -1,66 +1,66 @@
 [
     {
-        "ConfigFile": "Config\\ConnectionSettings.xml",
+        "ConfigFile": "LMPServer\\Config\\ConnectionSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\CraftSettings.xml",
+        "ConfigFile": "LMPServer\\Config\\CraftSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\DebugSettings.xml",
+        "ConfigFile": "LMPServer\\Config\\DebugSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\DedicatedServerSettings.xml",
+        "ConfigFile": "LMPServer\\Config\\DedicatedServerSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\GameplaySettings.xml",
+        "ConfigFile": "LMPServer\\Config\\GameplaySettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\GeneralSettings.xml",
+        "ConfigFile": "LMPServer\\Config\\GeneralSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\IntervalSettings.xml",
+        "ConfigFile": "LMPServer\\Config\\IntervalSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\LMPModControl.xml",
+        "ConfigFile": "LMPServer\\Config\\LMPModControl.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\LogSettings.xml",
+        "ConfigFile": "LMPServer\\Config\\LogSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\MasterServerSettings.xml",
+        "ConfigFile": "LMPServer\\Config\\MasterServerSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\ScreenshotSettings.xml",
+        "ConfigFile": "LMPServer\\Config\\ScreenshotSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\WarpSettings.xml",
+        "ConfigFile": "LMPServer\\Config\\WarpSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     },
     {
-        "ConfigFile": "Config\\WebsiteSettings.xml",
+        "ConfigFile": "LMPServer\\Config\\WebsiteSettings.xml",
         "ConfigType": "xml",
         "AutoMap": true
     }
