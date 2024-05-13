@@ -24,6 +24,7 @@ Console.UserChatRegex=^User Chat$
 Console.UserJoinRegex=^User Connected$
 Console.UserLeaveRegex=^User Disconnected$
 Meta.Author=Sir Piggles
+Meta.AppConfigId=19b6af3e-9ee0-4ddd-b9aa-97cf90b45d36
 Meta.ConfigManifest=luna-multiplayerconfig.json
 Meta.ConfigRoot=luna-multiplayer.kvp
 Meta.Description=Kerbal Space Program Multiplayer
